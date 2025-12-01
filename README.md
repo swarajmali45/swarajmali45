@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science & ML Engineer with experience in NLP, recommender systems, time-series forecasting, and data engineering.<br>Skilled in Python, SQL, PySpark, TensorFlow, and MLOps for scalable AI deployment. Certified in ML and NLP, with<br>projects spanning predictive modeling, text mining, and cloud-based solutions
+Data Science & ML Engineer with experience in NLP, recommender systems, time-series forecasting, and data engineering.<br>Skilled in Python, SQL, PySpark, TensorFlow, and MLOps for scalable AI deployment. Certified in ML and NLP, with projects spanning predictive modeling, text mining, and cloud-based solutions
 
 
 ## 🌐 Socials:
